@@ -2,7 +2,7 @@
 ## Title: Nchat
 ## Notes: Floating whisper bubbles with live status indicators and 3D portraits.
 ## Author: Halfdays-Firemaw
-## Version: 2.8
+## Version: 2.92
 ## SavedVariables: NChatDB
 
 Nchat.lua
